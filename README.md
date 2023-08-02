@@ -15,27 +15,50 @@ Tiredness: It determines an individual’s tiredness symptom. This field accepts
 
 Dry-Cough: This field accepts integers and determines an individual’s Dry Cough symptom.  
 
-Difficulty-in-Breathing: It determines the difficulty in breathing symptom in an individual. This field takes integers.
+Difficulty-in-Breathing: It determines the difficulty in breathing symptom in an individual. This field takes integers. 
+
 Sore-Throat: It determines the sore throat symptom in an individual. This field takes integers.
+
 Pains: It determines the Pains symptom in an individual. This field takes integers.
+
 Nasal-Congestion: It determines the nasal congestion symptom in an individual. This field takes integers.
+
 Runny-Nose: It determines the runny nose symptom in an individual. This field takes integers.
+
 Diarrhea: It determines the diarrhea symptom in an individual. This field takes integers.
+
 Gender Female: It determines the gender of an individual. It takes integers.
+
 Gender Male: It determines the gender of an individual. It takes integers.
+
 Gender Transgender: It determines the gender of an individual. It takes integers.
+
 Severity Mild: It determines the severity of infection in an individual. It takes integers.
+
 Severity Moderate: It determines the severity of infection in an individual. It takes integers.
+
 Contact Dont Know: This feature tells if the infected person has contact. It takes integers.
+
 Contact No: This feature tells if the infected person has contact. It takes integers.
+
 Contact Yes: This feature tells if the infected person has contact. It takes integers.
+
 Country: This feature explains the country of the individual.
+
 No Common Symptoms: It determines if the individual has common symptoms or not. This field takes integers.
+
 Age 0-9: It determines the age group of an individual. It takes integers.
+
 Age 10-19: It determines the age group of an individual. It takes integers.
+
 Age 20-24: It determines the age group of an individual. It takes integers.
+
 Age 25-59: It determines the age group of an individual. It takes integers.
+
 Age 60+: It determines the age group of an individual. It takes integers.
+
 Severity None: It determines the severity of infection in an individual. It takes integers.
+
 Severity Severe: It determines the severity of infection in an individual. It takes integers.
+
 No other Symptoms: It determines if the individual has other symptoms or not. This field takes integers.</div>
