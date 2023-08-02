@@ -8,9 +8,10 @@ The shape of the dataset is 316799x27. The dataset consists of 316799 records an
 
 # Description of Measurements
 <div align="justify">
+  
 Fever: It determines an individual’s fever symptom.This field accepts integers.  
   
-Tiredness: It determines an individual’s tiredness symptom. This field accepts integers.  
+Tiredness: It determines an individual’s tiredness symptom. This field accepts integers.
 
 Dry-Cough: This field accepts integers and determines an individual’s Dry Cough symptom.  
 
