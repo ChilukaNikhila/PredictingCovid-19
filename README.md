@@ -65,3 +65,6 @@ No other Symptoms: It determines if the individual has other symptoms or not. Th
 
 # Analysis and visualization
 All the information about data cleaning and visualization can be accessed [here.](https://github.com/ChilukaNikhila/PredictingCovid-19/blob/main/Analysis%20and%20visualization/report_1_big_data%20(1).pdf)
+
+# Models and Results
+A detailed description of how the training set is selected and how models are trained can be accessed here.
