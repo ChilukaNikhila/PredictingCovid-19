@@ -62,3 +62,6 @@ Severity None: It determines the severity of infection in an individual. It take
 Severity Severe: It determines the severity of infection in an individual. It takes integers.
 
 No other Symptoms: It determines if the individual has other symptoms or not. This field takes integers.</div>
+
+# Analysis and visualization
+All the information about data cleaning and visualization can be accessed [here.](https://github.com/ChilukaNikhila/PredictingCovid-19/blob/main/Analysis%20and%20visualization/report_1_big_data%20(1).pdf)
